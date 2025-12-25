@@ -1,4 +1,4 @@
 ollama
 ChatOllama
 langchain-ollama
-langgraph-checkpoint
+streamlit
